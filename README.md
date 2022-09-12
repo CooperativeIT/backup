@@ -4,6 +4,9 @@ Scripts for backing up server both locally and remotely via cronjobs
 
 **SSH public keys will need to be set up for the remote server part to work**
 
+## Create folders
+
+  mkdir <backup_folder> <backup_folder>/daily-backups <backup_folder>/weekly-backups <backup_folder>/monlthly-backups
 
 ## Usage
 
